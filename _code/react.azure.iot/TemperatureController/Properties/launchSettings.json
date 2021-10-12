@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TemperatureController": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "IOTHUB_DEVICE_SECURITY_TYPE": "connectionString",
+        "IOTHUB_DEVICE_CONNECTION_STRING": "HostName=reactoriothub.azure-devices.net;DeviceId=temperatureSensor;SharedAccessKey=bEfQ+E/AtW2QFIiUI3S3rdfl47udfx35ZKbiW6Ob0WY="
+      }
+    }
+  }
+}

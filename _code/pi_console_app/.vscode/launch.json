@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Remote Launch - Self-contained",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "/home/pi/.dotnet/dotnet",
+            "args": ["/home/pi/_dotnetcore_app/pi_console_app.dll"],
+            "cwd": "/home/pi/_dotnetcore_app",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "pipeTransport": {
+                "pipeCwd": "${workspaceRoot}",
+                "pipeProgram": "C:\\Program Files\\PuTTY\\PLINK.EXE",
+                "pipeArgs": [
+                    "-pw",
+                    "Redhat0!",
+                    "pi@192.168.1.108"
+                ],
+                "debuggerPath": "/home/pi/vsdbg/vsdbg"
+            }
+        },
+    ]
+}

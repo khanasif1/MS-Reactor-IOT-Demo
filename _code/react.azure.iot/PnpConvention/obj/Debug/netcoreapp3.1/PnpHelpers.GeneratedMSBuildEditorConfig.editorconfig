@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PnpHelpers
+build_property.ProjectDir = C:\_dev\_rnd\pi_app\_demo\_code\react.azure.iot\PnpConvention\

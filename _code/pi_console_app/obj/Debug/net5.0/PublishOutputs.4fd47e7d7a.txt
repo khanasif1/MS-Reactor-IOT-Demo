@@ -1,0 +1,5 @@
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\publish\pi_console_app.exe
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\publish\pi_console_app.dll
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\publish\pi_console_app.deps.json
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\publish\pi_console_app.runtimeconfig.json
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\publish\pi_console_app.pdb

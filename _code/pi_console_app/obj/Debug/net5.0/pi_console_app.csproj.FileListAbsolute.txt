@@ -1,0 +1,16 @@
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\pi_console_app.exe
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\pi_console_app.deps.json
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\pi_console_app.runtimeconfig.json
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\pi_console_app.runtimeconfig.dev.json
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\pi_console_app.dll
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\ref\pi_console_app.dll
+C:\_dev\_rnd\pi_app\pi_console_app\bin\Debug\net5.0\pi_console_app.pdb
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\pi_console_app.csproj.AssemblyReference.cache
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\pi_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\pi_console_app.AssemblyInfoInputs.cache
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\pi_console_app.AssemblyInfo.cs
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\pi_console_app.csproj.CoreCompileInputs.cache
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\pi_console_app.dll
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\ref\pi_console_app.dll
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\pi_console_app.pdb
+C:\_dev\_rnd\pi_app\pi_console_app\obj\Debug\net5.0\pi_console_app.genruntimeconfig.cache

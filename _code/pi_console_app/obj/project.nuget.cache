@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xMFEIAEzELT+lFc5zZKRNlbzVW/Nr9g10ngPPUc3Ek1c6n+QdwxMnZbKccLG/9KBlTEyEHK9zY2kDsmIg7GpRg==",
+  "success": true,
+  "projectFilePath": "C:\\_dev\\_rnd\\pi_app\\pi_console_app\\pi_console_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askha\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\5.0.10\\microsoft.netcore.app.runtime.linux-arm.5.0.10.nupkg.sha512",
+    "C:\\Users\\askha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\5.0.10\\microsoft.aspnetcore.app.runtime.linux-arm.5.0.10.nupkg.sha512",
+    "C:\\Users\\askha\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\5.0.10\\microsoft.netcore.app.host.linux-arm.5.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
