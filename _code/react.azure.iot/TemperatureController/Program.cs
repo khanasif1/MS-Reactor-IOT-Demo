@@ -29,7 +29,7 @@ namespace Microsoft.Azure.Devices.Client.Samples
             
 
             s_logger.LogInformation("Press Control+C to quit the sample.");
-            using var cts = new CancellationTokenSource(Timeout.InfiniteTimeSpan);// (runningTime);
+            using var cts = new CancellationTokenSource(Timeout.InfiniteTimeSpan);
             
 
             s_logger.LogDebug($"Set up the device client.");

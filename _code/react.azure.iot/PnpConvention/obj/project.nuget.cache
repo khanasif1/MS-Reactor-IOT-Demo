@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pycPUAgXGuIycHyVpFVQgsa3aQqF4TECbdcNxOyOrSg/wTsxRbGXeZypZadaSJ14AG7FZ2R+urbAo0vx5KeaDQ==",
+  "dgSpecHash": "PHFHY9eAU4ZidhJWEj7dQk+KuE95AE9WfFOaaRdHwKAjuvaDUFFOI6rI6nVYpoq/QBvArdBjknchgLvqnxZmTw==",
   "success": true,
-  "projectFilePath": "C:\\_dev\\_rnd\\pi_app\\_demo\\_code\\react.azure.iot\\PnpConvention\\PnpHelpers.csproj",
+  "projectFilePath": "C:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\react.azure.iot\\PnpConvention\\PnpHelpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\askha\\.nuget\\packages\\dotnetty.buffers\\0.6.0\\dotnetty.buffers.0.6.0.nupkg.sha512",
     "C:\\Users\\askha\\.nuget\\packages\\dotnetty.codecs\\0.6.0\\dotnetty.codecs.0.6.0.nupkg.sha512",

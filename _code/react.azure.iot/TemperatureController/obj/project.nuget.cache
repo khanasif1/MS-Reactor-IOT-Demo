@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RXfcLMbLs6sVVcOEWRgvA6iAUrVuZ2nGm3VlmcgTGSuNR19c0uxaJ9ojZfwYGLSTxX24tQLjvwsoZDt3vKvTOA==",
+  "dgSpecHash": "m3uhdf8ttY3OiNnP2mX9e8nz0hoftHOcNUl9EVLkOiI/p9eF5sPznWg0F2e5hj9fBxcP5/f6oOhk1rrFXgA3WQ==",
   "success": true,
-  "projectFilePath": "C:\\_dev\\_rnd\\pi_app\\_demo\\_code\\react.azure.iot\\TemperatureController\\TemperatureController.csproj",
+  "projectFilePath": "C:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\react.azure.iot\\TemperatureController\\TemperatureController.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\askha\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
     "C:\\Users\\askha\\.nuget\\packages\\dotnetty.buffers\\0.6.0\\dotnetty.buffers.0.6.0.nupkg.sha512",

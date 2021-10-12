@@ -7701,11 +7701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_dev\\_rnd\\pi_app\\_demo\\_code\\react.azure.iot\\TemperatureController\\TemperatureController.csproj",
+      "projectUniqueName": "C:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\react.azure.iot\\TemperatureController\\TemperatureController.csproj",
       "projectName": "TemperatureController",
-      "projectPath": "C:\\_dev\\_rnd\\pi_app\\_demo\\_code\\react.azure.iot\\TemperatureController\\TemperatureController.csproj",
+      "projectPath": "C:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\react.azure.iot\\TemperatureController\\TemperatureController.csproj",
       "packagesPath": "C:\\Users\\askha\\.nuget\\packages\\",
-      "outputPath": "C:\\_dev\\_rnd\\pi_app\\_demo\\_code\\react.azure.iot\\TemperatureController\\obj\\",
+      "outputPath": "C:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\react.azure.iot\\TemperatureController\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\askha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7722,8 +7722,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\_dev\\_rnd\\pi_app\\_demo\\_code\\react.azure.iot\\PnpConvention\\PnpHelpers.csproj": {
-              "projectPath": "C:\\_dev\\_rnd\\pi_app\\_demo\\_code\\react.azure.iot\\PnpConvention\\PnpHelpers.csproj"
+            "C:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\react.azure.iot\\PnpConvention\\PnpHelpers.csproj": {
+              "projectPath": "C:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\react.azure.iot\\PnpConvention\\PnpHelpers.csproj"
             }
           }
         }
