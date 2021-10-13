@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ql2xjzkjiRRtNtxThh/0OD4hRJH2yywcIchCD2d2bVT+T3Jx9eB5MD8tpih60pwOOuIXT+axkciWAV4UdKR9Dg==",
+  "dgSpecHash": "f0ejd27a2gEGfx7g5KTVA5SCLRDFtfXkpiBc2sV9B8vn+DDxSMPQhyp4phgRSNaNha8U/E3LbyesZ+qe4pnggg==",
   "success": true,
   "projectFilePath": "C:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\reactor.azure.iot\\react.azure.iot\\TemperatureController\\TemperatureController.csproj",
   "expectedPackageFiles": [

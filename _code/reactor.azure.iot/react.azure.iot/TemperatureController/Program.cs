@@ -34,7 +34,7 @@ namespace Microsoft.Azure.Devices.Client.Samples
 
             s_logger.LogDebug($"Set up the device client.");
             using DeviceClient deviceClient = await SetupDeviceClientAsync(cts.Token);
-            var sample = new TemperatureControllerSample(deviceClient, s_logger);
+            var sample = new TemperatureController(deviceClient, s_logger);
             await sample.PerformOperationsAsync(cts.Token);
             
             await deviceClient.CloseAsync();
@@ -52,7 +52,7 @@ namespace Microsoft.Azure.Devices.Client.Samples
                 });
             });
 
-            return loggerFactory.CreateLogger<TemperatureControllerSample>();
+            return loggerFactory.CreateLogger<TemperatureController>();
         }
 
         private static async Task<DeviceClient> SetupDeviceClientAsync(CancellationToken cancellationToken)

@@ -24,7 +24,7 @@ namespace Microsoft.Azure.Devices.Client.Samples
         BadRequest = 400
     }
 
-    public class TemperatureControllerSample
+    public class TemperatureController
     {
         private class DeviceData
         {
@@ -59,10 +59,10 @@ namespace Microsoft.Azure.Devices.Client.Samples
         // Dictionary to hold the max temperature since last reboot, for each "Thermostat" component.
         private readonly Dictionary<string, double> _maxTemp = new Dictionary<string, double>();
 
-        public TemperatureControllerSample(DeviceClient deviceClient, ILogger logger)
+        public TemperatureController(DeviceClient deviceClient, ILogger logger)
         {
             _deviceClient = deviceClient ?? throw new ArgumentNullException($"{nameof(deviceClient)} cannot be null.");
-            _logger = logger ?? LoggerFactory.Create(builer => builer.AddConsole()).CreateLogger<TemperatureControllerSample>();
+            _logger = logger ?? LoggerFactory.Create(builer => builer.AddConsole()).CreateLogger<TemperatureController>();
         }
 
         public async Task PerformOperationsAsync(CancellationToken cancellationToken)
