@@ -67,3 +67,4 @@ C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot.web\
 C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot.web\obj\Debug\react.azure.iot.web.csproj.CopyComplete
 C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot.web\obj\Debug\SignalRLogging.dll
 C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot.web\obj\Debug\SignalRLogging.pdb
+C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot.web\obj\Debug\react.azure.iot.web.csproj.AssemblyReference.cache
