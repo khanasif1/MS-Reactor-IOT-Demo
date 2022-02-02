@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\_dev\\_github\\MS-Reactor-IOT-Demo\\_code\\reactor.azure.iot\\react.azure.iot.web\\react.azure.iot.web.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

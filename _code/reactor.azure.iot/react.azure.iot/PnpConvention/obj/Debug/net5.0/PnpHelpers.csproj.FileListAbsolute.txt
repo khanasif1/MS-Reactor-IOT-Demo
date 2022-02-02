@@ -341,3 +341,4 @@ C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot\PnpC
 C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot\PnpConvention\obj\Debug\net5.0\PnpHelpers.pdb
 C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot\PnpConvention\obj\Debug\net5.0\PnpHelpers.genruntimeconfig.cache
 C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot\PnpConvention\obj\Debug\net5.0\PnpHelpers.csproj.AssemblyReference.cache
+C:\_dev\_github\MS-Reactor-IOT-Demo\_code\reactor.azure.iot\react.azure.iot\PnpConvention\obj\Debug\net5.0\PnpHelpers.csproj.CopyComplete
